@@ -1,2 +1,6 @@
 
-recupererEtiquette()
+document.addEventListener('DOMContentLoaded', function() {
+    recupererData()
+})
+
+
